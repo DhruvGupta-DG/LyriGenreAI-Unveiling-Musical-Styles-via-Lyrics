@@ -1,4 +1,4 @@
-# LyriGenreAI-Unveiling-Musical-Styles-via-Lyrics
+# GenreDetect: Lyrics-based Genre Classification
 
 This project involves the analysis and classification of song lyrics into two genres: progressive rock and pop. The project follows a structured approach and can be summarized as follows:
 
